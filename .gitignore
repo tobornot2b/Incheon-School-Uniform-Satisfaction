@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/학교별엑셀파일
+
+*.dll
+*.xlsx
+*.ipynb
+
+!2_인천 교복 만족도 조사 집계.ipynb
